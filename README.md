@@ -25,7 +25,7 @@
 ![Clerk](https://img.shields.io/badge/Clerk-3C2F8D?style=for-the-badge&logo=clerk&logoColor=white)
 ![BetterAuth](https://img.shields.io/badge/BetterAuth-4B0082?style=for-the-badge&logoColor=white)
 
-### Ai
+### Ai/Api
 ![Inngest](https://img.shields.io/badge/Inngest-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiBoZWlnaHQ9IjMyIiB2aWV3Qm94PSIwIDAgMzIgMzIiIHdpZHRoPSIzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMuMC9zdmciPjxwYXRoIGQ9Ik0xMi4yIDEwLjdsNC42LTQuNmExIDEgMCAwIDEgMS40IDEuNEwxMy42IDExLjZsNC42IDQuNmExIDEgMCAwIDEtMS40IDEuNEwxMi4yIDEzLjRsLTQuNiA0LjZhMSAxIDAgMSAxLTEuNC0xLjRMMTAuNCAxMi4ybC00LjYtNC42YTEgMSAwIDAgMSAxLjQtMS40bDQuNiA0LjZ6Ii8+PC9zdmc+)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic-000000?style=for-the-badge&logoColor=white)
