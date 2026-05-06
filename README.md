@@ -52,13 +52,6 @@
 
 ---
 
-## Featured
-
-| Project | Description | Stack |
-|----------|--------------|--------|
-| **LMS Platform** | Full-featured Learning Management System with scheduling, Zoom integration, and access control by enrollment. | Next.js, TypeScript, tRPC, Prisma, Clerk, PostgreSQL |
-
----
 
 ## Current Focus
 
